@@ -5,7 +5,7 @@ Student
 -------
 
 * ✉️  You can contact me at [whitek8327@gmail.com](mailto:whitek8327@gmail.com)
-* 🧠  I'm learning C# , .Net , Docker , CyberSecurity
+* 🧠  I'm learning C# .Net , Docker , CyberSecurity
 
 ### Skills
 
